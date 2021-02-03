@@ -575,7 +575,7 @@ http://canais.pintv.com.br:8080/6LKKZN/autoteste/18710
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/22877
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBO TV RIO SUL HD" tvg-logo="https://i.postimg.cc/CLGnPJhY/1516308217-c09a8ce05a12eb51ecd18aeea2c725226b778773.jpg" group-title="Rede Globo",GLOBO TV RIO SUL HD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/2361
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="GLOBOSAT HD" tvg-logo="https://i.postimg.cc/6qwtyrDL/1516312239-2dc4938e1a1ef83c790c0db7499c9f48659c1712.jpg" group-title="Variedades",GLOBOSAT HD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="GLOBOSAT HD" tvg-logo="https://i.postimg.cc/6qwtyrDL/1516312239-2dc4938e1a1ef83c790c0db7499c9f48659c1712.jpg" group-title="Variedades",GLOBOSAT HD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1557
 #EXTINF:-1 tvg-id="gloob.br" tvg-name="GLOOB HD" tvg-logo="https://i.postimg.cc/zvnvQX1p/1516310467-7a394923dae733aea5c2d0f07bf671299a77875e.jpg" group-title="Infantis",GLOOB HD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1558
@@ -821,11 +821,11 @@ http://canais.pintv.com.br:8080/6LKKZN/autoteste/1666
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/31393
 #EXTINF:-1 tvg-id="megapix.br" tvg-name="MEGAPIX FHD" tvg-logo="" group-title="Filmes e Series",MEGAPIX FHD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1668
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="MTV FHD" tvg-logo="https://i.postimg.cc/sDj3zJP3/1516312775-9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Musicas",MTV FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MTV FHD" tvg-logo="https://i.postimg.cc/sDj3zJP3/1516312775-9439b92b416e0eaea27bcf2b3a07ae77c55263df.jpg" group-title="Musicas",MTV FHD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1669
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.postimg.cc/tCBp4VDW/1516312851-ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Musicas",MULTISHOW FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="MULTISHOW FHD" tvg-logo="https://i.postimg.cc/tCBp4VDW/1516312851-ba318e4b09d8586cfeac9ec76bc5816143edc3ef.jpg" group-title="Musicas",MULTISHOW FHD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1671
-#EXTINF:-1 tvg-id="natgeo.kids.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.postimg.cc/QdPDpG2M/1516319142-de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantis",NAT GEO KIDS FHD
+#EXTINF:-1 tvg-id="a.e.br" tvg-name="NAT GEO KIDS FHD" tvg-logo="https://i.postimg.cc/QdPDpG2M/1516319142-de02e1b2a44cd3d481196e18916399ba38ea7654.jpg" group-title="Infantis",NAT GEO KIDS FHD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1672
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="NATGEO WILD FHD" tvg-logo="https://i.postimg.cc/134Pn5YT/1516318948-9930a9b4d86cac9b03a91650951d47828388f718.jpg" group-title="Documentarios",NATGEO WILD FHD
 http://canais.pintv.com.br:8080/6LKKZN/autoteste/1673
